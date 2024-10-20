@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 ,Globo
+http://m.70.ms:80/51992993566/qwe2131/35729
+
+#EXTINF:-1 ,SBT SP
+http://m.70.ms:80/51992993566/qwe2131/6493
+
+#EXTINF:-1 ,TV Record
+http://m.70.ms:80/51992993566/qwe2131/35953
+
+#EXTINF:-1 ,Band
+http://m.70.ms:80/51992993566/qwe2131/6427
+
+#EXTINF:-1 ,Rede TV
+http://m.70.ms:80/51992993566/qwe2131/6410
+
+#EXTINF:-1 ,TV Cultura
+http://m.70.ms:80/51992993566/qwe2131/6449
+
+#EXTINF:-1 ,TV Futura
+http://m.70.ms:80/51992993566/qwe2131/6573
+
+#EXTINF:-1 ,Record News
+http://m.70.ms:80/51992993566/qwe2131/6501
+
+#EXTINF:-1 ,Band News
+http://m.70.ms:80/51992993566/qwe2131/6639
+
+#EXTINF:-1 ,Jovem Pan News
+http://m.70.ms:80/51992993566/qwe2131/203502
+
+#EXTINF:-1 ,TV Gazeta
+http://m.70.ms:80/51992993566/qwe2131/100529
+
+#EXTINF:-1 ,TV Ra Tim Bum
+http://m.70.ms:80/51992993566/qwe2131/10656
+
+#EXTINF:-1 ,TV Brasil
+http://m.70.ms:80/51992993566/qwe2131/100495
+
+#EXTINF:-1 ,Rede Brasil
+http://m.70.ms:80/51992993566/qwe2131/70
+
+#EXTINF:-1 ,TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 ,TV Escola
+http://m.70.ms:80/51992993566/qwe2131/10657
+
+#EXTINF:-1 ,TV Aparecida
+http://m.70.ms:80/51992993566/qwe2131/6450
+
+#EXTINF:-1 ,TV Pai Eterno
+http://m.70.ms:80/51992993566/qwe2131/100521
+
+#EXTINF:-1 ,Rede Vida
+http://m.70.ms:80/51992993566/qwe2131/68
+
+#EXTINF:-1 ,Rede Século 21
+http://m.70.ms:80/51992993566/qwe2131/72468
+
+#EXTINF:-1 ,Canção Nova
+http://m.70.ms:80/51992993566/qwe2131/10859
+
+#EXTINF:-1 ,Novo Tempo
+http://m.70.ms:80/51992993566/qwe2131/100510
+
+#EXTINF:-1 ,RIT TV
+http://m.70.ms:80/51992993566/qwe2131/10698
+
+#EXTINF:-1 ,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 ,TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 ,Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 ,TV Diário
+http://m.70.ms:80/51992993566/qwe2131/36316
+
+#EXTINF:-1 ,Canal Rural
+http://m.70.ms:80/51992993566/qwe2131/6425
+
+#EXTINF:-1 ,Terra Viva
+http://m.70.ms:80/51992993566/qwe2131/10661
+
+#EXTINF:-1 ,AgroMais
+http://m.70.ms:80/51992993566/qwe2131/113603
+
+#EXTINF:-1 ,Canal do Boi
+http://m.70.ms:80/51992993566/qwe2131/76300
+
+#EXTINF:-1 ,TV Câmara
+http://m.70.ms:80/51992993566/qwe2131/28679
+
+#EXTINF:-1 ,TV Senado
+http://m.70.ms:80/51992993566/qwe2131/21102
+
+#EXTINF:-1 ,TV Justiça
+http://m.70.ms:80/51992993566/qwe2131/10660

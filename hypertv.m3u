@@ -1,0 +1,251 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Canais Abertos", Globo
+http://m.70.ms:80/51992993566/qwe2131/35729
+
+#EXTINF:-1 group-title="Canais Abertos",SBT SP
+http://m.70.ms:80/51992993566/qwe2131/6493
+
+#EXTINF:-1 group-title="Canais Abertos",TV Record
+http://m.70.ms:80/51992993566/qwe2131/35953
+
+#EXTINF:-1 group-title="Canais Abertos",Band
+http://m.70.ms:80/51992993566/qwe2131/6427
+
+#EXTINF:-1 group-title="Canais Abertos",Rede TV
+http://m.70.ms:80/51992993566/qwe2131/6410
+
+#EXTINF:-1 group-title="Canais Abertos",TV Cultura
+http://m.70.ms:80/51992993566/qwe2131/6449
+
+#EXTINF:-1 group-title="Canais Abertos",TV Futura
+http://m.70.ms:80/51992993566/qwe2131/6573
+
+#EXTINF:-1 group-title="Canais Abertos",Record News
+http://m.70.ms:80/51992993566/qwe2131/6501
+
+#EXTINF:-1 group-title="Canais Abertos",Band News
+http://m.70.ms:80/51992993566/qwe2131/6639
+
+#EXTINF:-1 group-title="Canais Abertos",Jovem Pan News
+http://m.70.ms:80/51992993566/qwe2131/203502
+
+#EXTINF:-1 group-title="Canais Abertos",TV Gazeta
+http://m.70.ms:80/51992993566/qwe2131/100529
+
+#EXTINF:-1 group-title="Canais Abertos",TV Ra Tim Bum
+http://m.70.ms:80/51992993566/qwe2131/10656
+
+#EXTINF:-1 group-title="Canais Abertos",TV Brasil
+http://m.70.ms:80/51992993566/qwe2131/100495
+
+#EXTINF:-1 group-title="Canais Abertos",Rede Brasil
+http://m.70.ms:80/51992993566/qwe2131/70
+
+#EXTINF:-1 group-title="Canais Abertos",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos",TV Escola
+http://m.70.ms:80/51992993566/qwe2131/10657
+
+#EXTINF:-1 group-title="Canais Abertos",TV Aparecida
+http://m.70.ms:80/51992993566/qwe2131/6450
+
+#EXTINF:-1 group-title="Canais Abertos",TV Pai Eterno
+http://m.70.ms:80/51992993566/qwe2131/100521
+
+#EXTINF:-1 group-title="Canais Abertos",Rede Vida
+http://m.70.ms:80/51992993566/qwe2131/68
+
+#EXTINF:-1 group-title="Canais Abertos",Rede Século 21
+http://m.70.ms:80/51992993566/qwe2131/72468
+
+#EXTINF:-1 group-title="Canais Abertos",Canção Nova
+http://m.70.ms:80/51992993566/qwe2131/10859
+
+#EXTINF:-1 group-title="Canais Abertos",Novo Tempo
+http://m.70.ms:80/51992993566/qwe2131/100510
+
+#EXTINF:-1 group-title="Canais Abertos",RIT TV
+http://m.70.ms:80/51992993566/qwe2131/10698
+
+#EXTINF:-1 group-title="Canais Abertos",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos",TV Diário
+http://m.70.ms:80/51992993566/qwe2131/36316
+
+#EXTINF:-1 group-title="Canais Abertos",Canal Rural
+http://m.70.ms:80/51992993566/qwe2131/6425
+
+#EXTINF:-1 group-title="Canais Abertos",Terra Viva
+http://m.70.ms:80/51992993566/qwe2131/10661
+
+#EXTINF:-1 group-title="Canais Abertos",AgroMais
+http://m.70.ms:80/51992993566/qwe2131/113603
+
+#EXTINF:-1 group-title="Canais Abertos",Canal do Boi
+http://m.70.ms:80/51992993566/qwe2131/76300
+
+#EXTINF:-1 group-title="Canais Abertos",TV Câmara
+http://m.70.ms:80/51992993566/qwe2131/28679
+
+#EXTINF:-1 group-title="Canais Abertos",TV Senado
+http://m.70.ms:80/51992993566/qwe2131/21102
+
+#EXTINF:-1 group-title="Canais Abertos",TV Justiça
+http://m.70.ms:80/51992993566/qwe2131/10660
+
+
+
+
+
+#EXTINF:-1 group-title="Canais Pagos",CNN Brasil
+http://m.70.ms:80/51992993566/qwe2131/70825
+
+#EXTINF:-1 group-title="Canais Pagos", SporTV
+http://m.70.ms:80/51992993566/qwe2131/6481
+
+#EXTINF:-1 group-title="Canais Pagos", Globo News
+http://m.70.ms:80/51992993566/qwe2131/6568
+
+#EXTINF:-1 group-title="Canais Pagos", Jovem Pan News
+http://m.70.ms:80/51992993566/qwe2131/203502
+
+#EXTINF:-1 group-title="Canais Pagos", VIVA
+http://m.70.ms:80/51992993566/qwe2131/61
+
+#EXTINF:-1 group-title="Canais Pagos", Lifetime
+http://m.70.ms:80/51992993566/qwe2131/6544
+
+#EXTINF:-1 group-title="Canais Pagos", Universal TV
+http://m.70.ms:80/51992993566/qwe2131/6409
+
+#EXTINF:-1 group-title="Canais Pagos", Warner Channel
+http://m.70.ms:80/51992993566/qwe2131/60
+
+#EXTINF:-1 group-title="Canais Pagos", Star
+http://m.70.ms:80/51992993566/qwe2131/6423
+
+#EXTINF:-1 group-title="Canais Pagos", Paramount Network
+http://m.70.ms:80/51992993566/qwe2131/6517
+
+#EXTINF:-1 group-title="Canais Pagos", Studio Universal
+http://m.70.ms:80/51992993566/qwe2131/6445
+
+#EXTINF:-1 group-title="Canais Pagos", TLC
+http://m.70.ms:80/51992993566/qwe2131/6458
+
+#EXTINF:-1 group-title="Canais Pagos", A&E
+http://m.70.ms:80/51992993566/qwe2131/6646
+
+#EXTINF:-1 group-title="Canais Pagos", AMC
+http://m.70.ms:80/51992993566/qwe2131/6644
+
+#EXTINF:-1 group-title="Canais Pagos", AXN
+http://m.70.ms:80/51992993566/qwe2131/6648
+
+#EXTINF:-1 group-title="Canais Pagos", Sony
+http://m.70.ms:80/51992993566/qwe2131/6631
+
+#EXTINF:-1 group-title="Canais Pagos", Space
+http://m.70.ms:80/51992993566/qwe2131/6487
+
+#EXTINF:-1 group-title="Canais Pagos", Megapix
+http://m.70.ms:80/51992993566/qwe2131/6536
+
+#EXTINF:-1 group-title="Canais Pagos", FX
+http://m.70.ms:80/51992993566/qwe2131/6571
+
+#EXTINF:-1 group-title="Canais Pagos", Cinemax
+http://m.70.ms:80/51992993566/qwe2131/6626
+
+#EXTINF:-1 group-title="Canais Pagos", TNT
+http://m.70.ms:80/51992993566/qwe2131/6456
+
+#EXTINF:-1 group-title="Canais Pagos", HBO
+http://m.70.ms:80/51992993566/qwe2131/6554
+
+#EXTINF:-1 group-title="Canais Pagos", Telecine Cult
+http://m.70.ms:80/51992993566/qwe2131/6468
+
+#EXTINF:-1 group-title="Canais Pagos", Telecine Fun
+http://m.70.ms:80/51992993566/qwe2131/6466
+
+#EXTINF:-1, Telecine Pipoca
+http://m.70.ms:80/51992993566/qwe2131/6464
+
+#EXTINF:-1 group-title="Canais Pagos", Telecine Premium
+http://m.70.ms:80/51992993566/qwe2131/6462
+
+#EXTINF:-1 group-title="Canais Pagos", Telecine Touch
+http://m.70.ms:80/51992993566/qwe2131/6460
+
+#EXTINF:-1 group-title="Canais Pagos", Telecine Action
+http://m.70.ms:80/51992993566/qwe2131/6470
+
+#EXTINF:-1 group-title="Canais Pagos", History Channel
+http://m.70.ms:80/51992993566/qwe2131/6549
+
+#EXTINF:-1 group-title="Canais Pagos", History Channel 2
+http://m.70.ms:80/51992993566/qwe2131/6560
+
+#EXTINF:-1 group-title="Canais Pagos", Nat Geo
+http://m.70.ms:80/51992993566/qwe2131/6529
+
+#EXTINF:-1 group-title="Canais Pagos", Discovery Channel
+http://m.70.ms:80/51992993566/qwe2131/6619
+
+#EXTINF:-1 group-title="Canais Pagos", Investigação Discovery
+http://m.70.ms:80/51992993566/qwe2131/6546
+
+#EXTINF:-1 group-title="Canais Pagos", Discovery Turbo
+http://m.70.ms:80/51992993566/qwe2131/6607
+
+#EXTINF:-1 group-title="Canais Pagos", Discovery Theater
+http://m.70.ms:80/51992993566/qwe2131/6609
+
+#EXTINF:-1 group-title="Canais Pagos", Animal Planet
+http://m.70.ms:80/51992993566/qwe2131/6642
+
+#EXTINF:-1 group-title="Canais Pagos", Discovery Kids
+http://m.70.ms:80/51992993566/qwe2131/6613
+
+#EXTINF:-1 group-title="Canais Pagos", ESPN
+http://m.70.ms:80/51992993566/qwe2131/6588
+
+#EXTINF:-1 group-title="Canais Pagos", ESPN 2
+http://m.70.ms:80/51992993566/qwe2131/6590
+
+#EXTINF:-1 group-title="Canais Pagos", Band Sports
+http://m.70.ms:80/51992993566/qwe2131/6637
+
+#EXTINF:-1 group-title="Canais Pagos", Fish TV
+http://m.70.ms:80/51992993566/qwe2131/6586
+
+#EXTINF:-1 group-title="Canais Pagos", TruTV
+http://m.70.ms:80/51992993566/qwe2131/6451
+
+#EXTINF:-1 group-title="Canais Pagos", Cartoon Network
+http://m.70.ms:80/51992993566/qwe2131/6628
+
+#EXTINF:-1 group-title="Canais Pagos", Gloob
+http://m.70.ms:80/51992993566/qwe2131/6564
+
+#EXTINF:-1 group-title="Canais Pagos", Nick JR
+http://m.70.ms:80/51992993566/qwe2131/6522
+
+#EXTINF:-1 group-title="Canais Pagos", Nickelodeon
+http://m.70.ms:80/51992993566/qwe2131/6520
+
+#EXTINF:-1 group-title="Canais Pagos", Disney Channel
+http://m.70.ms:80/51992993566/qwe2131/6603
+
+#EXTINF:-1 group-title="Canais Pagos", TV Ra Tim Bum
+http://m.70.ms:80/51992993566/qwe2131/10656
