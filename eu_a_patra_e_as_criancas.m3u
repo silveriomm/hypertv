@@ -1,16 +1,248 @@
 #EXTM3U
 
-#EXTINF:-1 ,Eu a patra e as crianças Temporada 01
-http://m.70.ms:80/51992993566/qwe2131/250608
-
-#EXTINF:-1 ,Eu a patra e as crianças Temporada 02
-http://m.70.ms:80/51992993566/qwe2131/250609
-
-#EXTINF:-1 ,Eu a patra e as crianças Temporada 03
-http://m.70.ms:80/51992993566/qwe2131/250610
-
-#EXTINF:-1 ,Eu a patra e as crianças Temporada 04
-http://m.70.ms:80/51992993566/qwe2131/250611
-
-#EXTINF:-1 ,Eu a patra e as crianças Temporada 05
-http://m.70.ms:80/51992993566/qwe2131/250793
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E01
+http://m.70.ms:80/series/51992993566/qwe2131/84495.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E02
+http://m.70.ms:80/series/51992993566/qwe2131/84496.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E03
+http://m.70.ms:80/series/51992993566/qwe2131/84497.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E04
+http://m.70.ms:80/series/51992993566/qwe2131/84498.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E05
+http://m.70.ms:80/series/51992993566/qwe2131/84499.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E06
+http://m.70.ms:80/series/51992993566/qwe2131/84500.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E07
+http://m.70.ms:80/series/51992993566/qwe2131/84501.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E08
+http://m.70.ms:80/series/51992993566/qwe2131/84502.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E09
+http://m.70.ms:80/series/51992993566/qwe2131/84503.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E10
+http://m.70.ms:80/series/51992993566/qwe2131/84504.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S01 E11
+http://m.70.ms:80/series/51992993566/qwe2131/84505.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E01
+http://m.70.ms:80/series/51992993566/qwe2131/84506.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E02
+http://m.70.ms:80/series/51992993566/qwe2131/84507.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E03
+http://m.70.ms:80/series/51992993566/qwe2131/84508.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E04
+http://m.70.ms:80/series/51992993566/qwe2131/84509.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E05
+http://m.70.ms:80/series/51992993566/qwe2131/84510.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E06
+http://m.70.ms:80/series/51992993566/qwe2131/84511.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E07
+http://m.70.ms:80/series/51992993566/qwe2131/84512.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E08
+http://m.70.ms:80/series/51992993566/qwe2131/84513.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E09
+http://m.70.ms:80/series/51992993566/qwe2131/84514.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E10
+http://m.70.ms:80/series/51992993566/qwe2131/84515.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E11
+http://m.70.ms:80/series/51992993566/qwe2131/84516.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E12
+http://m.70.ms:80/series/51992993566/qwe2131/84517.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E13
+http://m.70.ms:80/series/51992993566/qwe2131/84518.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E14
+http://m.70.ms:80/series/51992993566/qwe2131/84519.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E15
+http://m.70.ms:80/series/51992993566/qwe2131/84520.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E16
+http://m.70.ms:80/series/51992993566/qwe2131/84521.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E17
+http://m.70.ms:80/series/51992993566/qwe2131/84522.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E18
+http://m.70.ms:80/series/51992993566/qwe2131/84523.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E19
+http://m.70.ms:80/series/51992993566/qwe2131/84524.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E20
+http://m.70.ms:80/series/51992993566/qwe2131/84525.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E21
+http://m.70.ms:80/series/51992993566/qwe2131/84526.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E22
+http://m.70.ms:80/series/51992993566/qwe2131/84527.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E23
+http://m.70.ms:80/series/51992993566/qwe2131/84528.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E24
+http://m.70.ms:80/series/51992993566/qwe2131/84529.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E25
+http://m.70.ms:80/series/51992993566/qwe2131/84530.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E26
+http://m.70.ms:80/series/51992993566/qwe2131/84531.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E27
+http://m.70.ms:80/series/51992993566/qwe2131/84532.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E28
+http://m.70.ms:80/series/51992993566/qwe2131/84533.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S02 E29
+http://m.70.ms:80/series/51992993566/qwe2131/84534.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E01
+http://m.70.ms:80/series/51992993566/qwe2131/84535.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E02
+http://m.70.ms:80/series/51992993566/qwe2131/84536.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E03
+http://m.70.ms:80/series/51992993566/qwe2131/84537.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E04
+http://m.70.ms:80/series/51992993566/qwe2131/84538.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E05
+http://m.70.ms:80/series/51992993566/qwe2131/84539.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E06
+http://m.70.ms:80/series/51992993566/qwe2131/84540.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E07
+http://m.70.ms:80/series/51992993566/qwe2131/84541.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E08
+http://m.70.ms:80/series/51992993566/qwe2131/84542.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E09
+http://m.70.ms:80/series/51992993566/qwe2131/84543.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E10
+http://m.70.ms:80/series/51992993566/qwe2131/84544.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E11
+http://m.70.ms:80/series/51992993566/qwe2131/84545.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E12
+http://m.70.ms:80/series/51992993566/qwe2131/84546.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E13
+http://m.70.ms:80/series/51992993566/qwe2131/84547.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E14
+http://m.70.ms:80/series/51992993566/qwe2131/84548.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E15
+http://m.70.ms:80/series/51992993566/qwe2131/84549.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E16
+http://m.70.ms:80/series/51992993566/qwe2131/84550.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E17
+http://m.70.ms:80/series/51992993566/qwe2131/84551.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E18
+http://m.70.ms:80/series/51992993566/qwe2131/84552.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E19
+http://m.70.ms:80/series/51992993566/qwe2131/84553.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E20
+http://m.70.ms:80/series/51992993566/qwe2131/84554.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E21
+http://m.70.ms:80/series/51992993566/qwe2131/84555.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E22
+http://m.70.ms:80/series/51992993566/qwe2131/84556.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E23
+http://m.70.ms:80/series/51992993566/qwe2131/84557.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E24
+http://m.70.ms:80/series/51992993566/qwe2131/84558.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E25
+http://m.70.ms:80/series/51992993566/qwe2131/84559.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E26
+http://m.70.ms:80/series/51992993566/qwe2131/84560.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S03 E27
+http://m.70.ms:80/series/51992993566/qwe2131/84561.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E01
+http://m.70.ms:80/series/51992993566/qwe2131/84562.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E02
+http://m.70.ms:80/series/51992993566/qwe2131/84563.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E03
+http://m.70.ms:80/series/51992993566/qwe2131/84564.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E04
+http://m.70.ms:80/series/51992993566/qwe2131/84565.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E05
+http://m.70.ms:80/series/51992993566/qwe2131/84566.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E06
+http://m.70.ms:80/series/51992993566/qwe2131/84567.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E07
+http://m.70.ms:80/series/51992993566/qwe2131/84568.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E08
+http://m.70.ms:80/series/51992993566/qwe2131/84569.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E09
+http://m.70.ms:80/series/51992993566/qwe2131/84570.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E10
+http://m.70.ms:80/series/51992993566/qwe2131/84571.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E11
+http://m.70.ms:80/series/51992993566/qwe2131/84572.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E12
+http://m.70.ms:80/series/51992993566/qwe2131/84573.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E13
+http://m.70.ms:80/series/51992993566/qwe2131/84574.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E14
+http://m.70.ms:80/series/51992993566/qwe2131/84575.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E15
+http://m.70.ms:80/series/51992993566/qwe2131/84576.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E16
+http://m.70.ms:80/series/51992993566/qwe2131/84577.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E17
+http://m.70.ms:80/series/51992993566/qwe2131/84578.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E18
+http://m.70.ms:80/series/51992993566/qwe2131/84579.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E19
+http://m.70.ms:80/series/51992993566/qwe2131/84580.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E20
+http://m.70.ms:80/series/51992993566/qwe2131/84581.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E21
+http://m.70.ms:80/series/51992993566/qwe2131/84582.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E22
+http://m.70.ms:80/series/51992993566/qwe2131/84583.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E23
+http://m.70.ms:80/series/51992993566/qwe2131/84584.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E24
+http://m.70.ms:80/series/51992993566/qwe2131/84585.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E25
+http://m.70.ms:80/series/51992993566/qwe2131/84586.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E26
+http://m.70.ms:80/series/51992993566/qwe2131/84587.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E27
+http://m.70.ms:80/series/51992993566/qwe2131/84588.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E28
+http://m.70.ms:80/series/51992993566/qwe2131/84589.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E29
+http://m.70.ms:80/series/51992993566/qwe2131/84590.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S04 E30
+http://m.70.ms:80/series/51992993566/qwe2131/84591.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E01
+http://m.70.ms:80/series/51992993566/qwe2131/84592.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E02
+http://m.70.ms:80/series/51992993566/qwe2131/84593.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E03
+http://m.70.ms:80/series/51992993566/qwe2131/84594.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E04
+http://m.70.ms:80/series/51992993566/qwe2131/84595.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E05
+http://m.70.ms:80/series/51992993566/qwe2131/84596.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E06
+http://m.70.ms:80/series/51992993566/qwe2131/84597.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E07
+http://m.70.ms:80/series/51992993566/qwe2131/84598.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E08
+http://m.70.ms:80/series/51992993566/qwe2131/84599.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E09
+http://m.70.ms:80/series/51992993566/qwe2131/84600.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E10
+http://m.70.ms:80/series/51992993566/qwe2131/84601.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E11
+http://m.70.ms:80/series/51992993566/qwe2131/84602.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E12
+http://m.70.ms:80/series/51992993566/qwe2131/84603.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E13
+http://m.70.ms:80/series/51992993566/qwe2131/84604.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E14
+http://m.70.ms:80/series/51992993566/qwe2131/84605.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E15
+http://m.70.ms:80/series/51992993566/qwe2131/84606.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E16
+http://m.70.ms:80/series/51992993566/qwe2131/84607.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E17
+http://m.70.ms:80/series/51992993566/qwe2131/84608.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E18
+http://m.70.ms:80/series/51992993566/qwe2131/84609.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E19
+http://m.70.ms:80/series/51992993566/qwe2131/84610.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E20
+http://m.70.ms:80/series/51992993566/qwe2131/84611.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E21
+http://m.70.ms:80/series/51992993566/qwe2131/84612.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E22
+http://m.70.ms:80/series/51992993566/qwe2131/84613.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E23
+http://m.70.ms:80/series/51992993566/qwe2131/84614.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E24
+http://m.70.ms:80/series/51992993566/qwe2131/84615.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E25
+http://m.70.ms:80/series/51992993566/qwe2131/84616.mp4
+#EXTINF:-1 group-title="Star+" tvg-logo="https://tv5.me/images/huMehRjXBkFkO9BWPly1635y0J0_big.jpg",Eu A Patroa E As Criancas S05 E26
+http://m.70.ms:80/series/51992993566/qwe2131/84617.mp4
