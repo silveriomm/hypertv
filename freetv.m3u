@@ -27,6 +27,8 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religioso",TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Filmes",Pluto TV Cine Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Filmes",Pluto TV Cine Família (720p) [Not 24/7]
