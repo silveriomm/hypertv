@@ -1,76 +1,76 @@
 #EXTM3U
 
 #EXTINF:-1 ,Globo
-http://meumd.com:80/22998802820/2299880/109677
+http://supertv.red:80/luiz222/222luiz/101742.m3u8
 
 #EXTINF:-1 ,SBT
-http://meumd.com:80/22998802820/2299880/108287
+http://supertv.red:80/luiz222/222luiz/101626.m3u8
 
 #EXTINF:-1 ,TV Record
-http://meumd.com:80/22998802820/2299880/221737
+http://supertv.red:80/luiz222/222luiz/101871.m3u8
 
 #EXTINF:-1 ,Band
-http://meumd.com:80/22998802820/2299880/141686
+http://supertv.red:80/luiz222/222luiz/101602.m3u8
 
 #EXTINF:-1 ,Rede TV
-http://meumd.com:80/22998802820/2299880/108290
+http://supertv.red:80/luiz222/222luiz/101589.m3u8
 
 #EXTINF:-1 ,TV Cultura
-http://meumd.com:80/22998802820/2299880/108279
+http://supertv.red:80/luiz222/222luiz/101581.m3u8
 
 #EXTINF:-1 ,TV Futura
-http://168.205.87.198:8555/live/1438/123456/67.ts
+http://supertv.red:80/luiz222/222luiz/101593.m3u8
 
 #EXTINF:-1 ,Record News
-http://meumd.com:80/22998802820/2299880/236271
+http://supertv.red:80/luiz222/222luiz/2867.m3u8
 
 #EXTINF:-1 ,Band News
-http://meumd.com:80/22998802820/2299880/108460
+http://supertv.red:80/luiz222/222luiz/100650.m3u8
 
 #EXTINF:-1 ,Jovem Pan News
-http://meumd.com:80/22998802820/2299880/172921
+http://supertv.red:80/luiz222/222luiz/133706.m3u8
 
 #EXTINF:-1 ,TV Gazeta
-http://meumd.com:80/22998802820/2299880/108277
+http://supertv.red:80/luiz222/222luiz/373185.m3u8
 
 #EXTINF:-1 ,TV Ra Tim Bum
-http://meumd.com:80/22998802820/2299880/110111
+http://supertv.red:80/luiz222/222luiz/100898.m3u8
 
 #EXTINF:-1 ,TV Brasil
-http://meumd.com:80/22998802820/2299880/109492
+http://supertv.red:80/luiz222/222luiz/773706.m3u8
 
 #EXTINF:-1 ,Rede Brasil
-http://meumd.com:80/22998802820/2299880/188976
-
-#EXTINF:-1 ,TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+http://supertv.red:80/luiz222/222luiz/101577.m3u8
 
 #EXTINF:-1 ,TV Escola
-https://canaleducacao-stream.ebc.com.br/index.m3u8
+http://supertv.red:80/luiz222/222luiz/101583.m3u8
 
 #EXTINF:-1 ,TV Aparecida
-http://meumd.com:80/22998802820/2299880/110165
+http://supertv.red:80/luiz222/222luiz/134760.m3u8
 
 #EXTINF:-1 ,TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+http://supertv.red:80/luiz222/222luiz/44829.m3u8
 
 #EXTINF:-1 ,Rede Vida
-http://meumd.com:80/22998802820/2299880/110170
+http://supertv.red:80/luiz222/222luiz/593342.m3u8
 
 #EXTINF:-1 ,Rede Século 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+http://supertv.red:80/luiz222/222luiz/593337.m3u8
 
 #EXTINF:-1 ,Canção Nova
-http://14225021914.com:80/612785397/T431u2294M/240805
+http://supertv.red:80/luiz222/222luiz/44482.m3u8
+
+#EXTINF:-1 ,TV Evangelizar
+http://supertv.red:80/luiz222/222luiz/2886.m3u8
 
 #EXTINF:-1 ,Novo Tempo
-http://14225021914.com:80/612785397/T431u2294M/201
+http://supertv.red:80/luiz222/222luiz/393524.m3u8
 
 #EXTINF:-1 ,RIT TV
-http://meumd.com:80/22998802820/2299880/111241
+http://supertv.red:80/luiz222/222luiz/379558.m3u8
 
 #EXTINF:-1 ,IMPD TV
-http://14225021914.com:80/612785397/T431u2294M/350132
+http://supertv.red:80/luiz222/222luiz/593347.m3u8
 
 #EXTINF:-1 ,TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
@@ -78,32 +78,29 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 ,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 ,TV Diário
-http://meumd.com:80/22998802820/2299880/111798
-
 #EXTINF:-1 ,Canal Rural
-http://meumd.com:80/22998802820/2299880/204845
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 ,Terra Viva
-http://p2reep.xyz:80/409843749/645484855/71276
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 ,AgroMais
-http://meumd.com:80/22998802820/2299880/189514
+#EXTINF:-1 ,AgroBrasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 ,Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
 #EXTINF:-1 ,Canal do Boi
-http://meumd.com:80/22998802820/2299880/204832
-
-#EXTINF:-1 ,Polishop
-http://meumd.com:80/22998802820/2299880/108284
+http://supertv.red:80/luiz222/222luiz/101579.m3u8
 
 #EXTINF:-1 ,TV Câmara
-http://meumd.com:80/22998802820/2299880/195931
+http://supertv.red:80/luiz222/222luiz/101584.m3u8
 
 #EXTINF:-1 ,TV Senado
-http://meumd.com:80/22998802820/2299880/195930
+http://supertv.red:80/luiz222/222luiz/373162.m3u8
 
 #EXTINF:-1 ,TV Justiça
-http://meumd.com:80/22998802820/2299880/108272
+http://supertv.red:80/luiz222/222luiz/126762.m3u8
 
 #EXTINF:-1 ,Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -134,13 +131,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 
 #EXTINF:-1 ,Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 ,Desenhos Bíblicos 24h
-http://meumd.com:80/22998802820/2299880/111160
-
-#EXTINF:-1 ,Loading TV
-http://meumd.com:80/22998802820/2299880/130700
-
-#EXTINF:-1 ,Disney
-http://meumd.com:80/22998802820/2299880/186341
-
