@@ -1,106 +1,85 @@
 #EXTM3U
 
-#EXTINF:-1 ,Globo
-http://supertv.red:80/luiz222/222luiz/101742.m3u8
+#EXTINF:-1 tvg-id="globo.com.br" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Geral",Globo RJ
+https://8mwx.short.gy/GLOBORJ/index.m3u8
 
-#EXTINF:-1 ,SBT
-http://supertv.red:80/luiz222/222luiz/101626.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 ,TV Record
-http://supertv.red:80/luiz222/222luiz/101871.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 ,Band
-http://supertv.red:80/luiz222/222luiz/101602.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Geral",Band (RBATV)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 ,Rede TV
-http://supertv.red:80/luiz222/222luiz/101589.m3u8
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! [Não 24/7]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 
-#EXTINF:-1 ,TV Cultura
-http://supertv.red:80/luiz222/222luiz/101581.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="General",TV Cultura [Não 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 ,TV Futura
-http://supertv.red:80/luiz222/222luiz/101593.m3u8
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" tvg-id="CanalFutura.br" group-title="Cultura",Futura
+https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 ,Record News
-http://supertv.red:80/luiz222/222luiz/2867.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 ,Band News
-http://supertv.red:80/luiz222/222luiz/100650.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias",Jovem Pan News (JP News) (1080p) [Não 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 ,Jovem Pan News
-http://supertv.red:80/luiz222/222luiz/133706.m3u8
+#EXTINF:-1 tvg-id="TVSimColatina.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícias",TV Sim Colatina (TV Brasil)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 
-#EXTINF:-1 ,TV Gazeta
-http://supertv.red:80/luiz222/222luiz/373185.m3u8
+#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Religioso",Rede Brasil de Comunicação (720p) [Não 24/7]
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 
-#EXTINF:-1 ,TV Ra Tim Bum
-http://supertv.red:80/luiz222/222luiz/100898.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Educação",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 ,TV Brasil
-http://supertv.red:80/luiz222/222luiz/773706.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religioso",TV Aparecida [Não 24/7]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 ,Rede Brasil
-http://supertv.red:80/luiz222/222luiz/101577.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religioso",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
-#EXTINF:-1 ,TV Escola
-http://supertv.red:80/luiz222/222luiz/101583.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida [Não 24/7]
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 ,TV Aparecida
-http://supertv.red:80/luiz222/222luiz/134760.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Religioso",Rede Século 21 [Não 24/7]
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
-#EXTINF:-1 ,TV Pai Eterno
-http://supertv.red:80/luiz222/222luiz/44829.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 ,Rede Vida
-http://supertv.red:80/luiz222/222luiz/593342.m3u8
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="Religioso",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 ,Rede Século 21
-http://supertv.red:80/luiz222/222luiz/593337.m3u8
-
-#EXTINF:-1 ,Canção Nova
-http://supertv.red:80/luiz222/222luiz/44482.m3u8
-
-#EXTINF:-1 ,TV Evangelizar
-http://supertv.red:80/luiz222/222luiz/2886.m3u8
-
-#EXTINF:-1 ,Novo Tempo
-http://supertv.red:80/luiz222/222luiz/393524.m3u8
-
-#EXTINF:-1 ,RIT TV
-http://supertv.red:80/luiz222/222luiz/379558.m3u8
-
-#EXTINF:-1 ,IMPD TV
-http://supertv.red:80/luiz222/222luiz/593347.m3u8
-
-#EXTINF:-1 ,TV Universal
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religioso",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTINF:-1 ,Amazon Sat
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Geral",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 ,Canal Rural
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Agro",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 ,Terra Viva
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Agro",Terra Viva [Não 24/7]
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 ,AgroBrasil
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Agro",AgroBrasil TV [Não 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 ,Canal do Criador
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Agro",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF:-1 ,Canal do Boi
-http://supertv.red:80/luiz222/222luiz/101579.m3u8
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Legislativo",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 ,TV Câmara
-http://supertv.red:80/luiz222/222luiz/101584.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Legislativo",TV Senado [Não 24/7]
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 
-#EXTINF:-1 ,TV Senado
-http://supertv.red:80/luiz222/222luiz/373162.m3u8
-
-#EXTINF:-1 ,TV Justiça
-http://supertv.red:80/luiz222/222luiz/126762.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Legislativo",TV Justiça [Não 24/7]
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 
 #EXTINF:-1 ,Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
