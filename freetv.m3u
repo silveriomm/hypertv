@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="globo.com.br" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Geral",Globo
-http://asrv.io:80/Marta2023/Marta2023/109677
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Geral",SBT
