@@ -45,8 +45,8 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Religioso",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
 ######## TV EVANGELIZAR ########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="Religioso",TV Evangelizar
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tvevangelizar.br" tvg-logo="https://urlc.net/Opbq" group-title="Religioso",TV Evangelizar (Youtube)
+https://www.youtube.com/watch?v=DRORG3uIiRs
 ######## REDE SÉCULO 21 ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Religioso",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8

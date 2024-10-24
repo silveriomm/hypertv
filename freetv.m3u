@@ -29,6 +29,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://lh3.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk=s180" group-title="Religioso",Rede Século 21 (1080p) [Não 24/7]
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1 tvg-id="tvevangelizar.br" tvg-logo="https://urlc.net/Opbq" group-title="Religioso",TV Evangelizar (Youtube)
+https://www.youtube.com/watch?v=DRORG3uIiRs
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://tvtolive.com/wp-content/uploads/TV-Novo-Tempo-tvtolive.com_.jpg" group-title="Religioso",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religioso",TV Maná Brasil
