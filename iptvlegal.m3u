@@ -1,7 +1,7 @@
 #EXTM3U
 ######## GLOBO ########
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Variedades",Globo SP
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Variedades",Globo BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?ativo=true
 ######## SBT ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Variedades",SBT Interior 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
