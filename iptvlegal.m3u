@@ -1,0 +1,101 @@
+#EXTM3U
+######## GLOBO ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Variedades",Globo SP
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+######## SBT ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Variedades",SBT Interior 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+######## RECORD ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="Variedades",Record (TV Conquista)
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+######## BAND ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Variedades",Band (RBA TV)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+######## REDE TV ########
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Variedades",Rede TV! PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+######## RECORD NEWS ########
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+######## JOVEM PAN NEWS ########
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Notícia",Jovem Pan News (Distro TV)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+######## TV CULTURA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Educativos",TV Cultura SP
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+######## TV FUTURA ########
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="Educativos",Futura
+https://tv.unisc.br/hls/test.m3u8
+######## REDE BRASIL ########
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="Variedades",TV Brasil (Rede Minas)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+######## CANAL EDUCAÇÃO ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Educativos",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+######## TV APARECIDA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Religioso",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+######## TV PAI ETERNO ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Religioso",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
+######## REDE VIDA ########
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
+######## TV EVANGELIZAR ########
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="Religioso",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+######## REDE SÉCULO 21 ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Religioso",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
+######## NOVO TEMPO ########
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/TV-Novo-Tempo-tvtolive.com_.jpg" group-title="Religioso",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+######## RIT TV ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2psU4x.png" group-title="Religioso",RIT TV
+https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+######## TV UNIVERSAL ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religioso",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+######## IMPD TV ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="Religioso",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+######## TELA VIVA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Entretenimento",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+######## TV MAX ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Entretenimento",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+######## TV METROPOLE ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="Variedades",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+######## REDE NGT ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Entretenimento",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+######## TV MON ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="Entretenimento",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+######## AMAZON SAT ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Variedades",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+######## CANAL RURAL ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Rural",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+######## CANAL DO CRIADOR ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Rural",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+######## TERRA VIVA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Rural",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+######## AGRO BRASIL ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Rural",Agrobrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+######## TV CÂMARA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislativo",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+######## TV SENADO ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Legislativo",TV Senado
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+######## TV JUSTIÇA ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Legislativo",TV Justiça
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+
