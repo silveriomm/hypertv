@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais Abertos", Globo SP
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",SBT SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TV Record SP
+https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Band SP
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Rede TV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",ConectTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TV Gazeta
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Escola
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Canção Nova
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",RIT TV
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/49789?atctive=true
+#EXTINF:-1 group-title="Canais Abertos",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Terra Viva
+http://m.70.ms:80/51992993566/qwe2131/10661
+#EXTINF:-1 group-title="Canais Abertos",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Senado
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Justiça
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Master Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Osório News
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",MyTime Movie Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Classique TV Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Combat Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960

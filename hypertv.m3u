@@ -1,251 +1,218 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Canais Abertos", Globo
-http://m.70.ms:80/51992993566/qwe2131/35729
-
+#EXTINF:-1 group-title="Canais Abertos", Globo ES
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/65268
 #EXTINF:-1 group-title="Canais Abertos",SBT SP
-http://m.70.ms:80/51992993566/qwe2131/6493
-
-#EXTINF:-1 group-title="Canais Abertos",TV Record
-http://m.70.ms:80/51992993566/qwe2131/35953
-
-#EXTINF:-1 group-title="Canais Abertos",Band
-http://m.70.ms:80/51992993566/qwe2131/6427
-
-#EXTINF:-1 group-title="Canais Abertos",Rede TV
-http://m.70.ms:80/51992993566/qwe2131/6410
-
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",TV Record SP
+https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Band SP
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",Rede TV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Cultura
-http://m.70.ms:80/51992993566/qwe2131/6449
-
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV?ativo=true
+#EXTINF:-1 group-title="Canais Abertos",ConectTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Futura
-http://m.70.ms:80/51992993566/qwe2131/6573
-
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 group-title="Canais Abertos",Record News
-http://m.70.ms:80/51992993566/qwe2131/6501
-
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="Canais Abertos",Band News
-http://m.70.ms:80/51992993566/qwe2131/6639
-
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",Jovem Pan News
-http://m.70.ms:80/51992993566/qwe2131/203502
-
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",TV Gazeta
-http://m.70.ms:80/51992993566/qwe2131/100529
-
-#EXTINF:-1 group-title="Canais Abertos",TV Ra Tim Bum
-http://m.70.ms:80/51992993566/qwe2131/10656
-
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",TV Brasil
-http://m.70.ms:80/51992993566/qwe2131/100495
-
-#EXTINF:-1 group-title="Canais Abertos",Rede Brasil
-http://m.70.ms:80/51992993566/qwe2131/70
-
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos",TV Escola
-http://m.70.ms:80/51992993566/qwe2131/10657
-
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Aparecida
-http://m.70.ms:80/51992993566/qwe2131/6450
-
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",TV Pai Eterno
-http://m.70.ms:80/51992993566/qwe2131/100521
-
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos",Rede Vida
-http://m.70.ms:80/51992993566/qwe2131/68
-
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",Rede Século 21
-http://m.70.ms:80/51992993566/qwe2131/72468
-
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",Canção Nova
-http://m.70.ms:80/51992993566/qwe2131/10859
-
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",Novo Tempo
-http://m.70.ms:80/51992993566/qwe2131/100510
-
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8?ativo=true
 #EXTINF:-1 group-title="Canais Abertos",RIT TV
-http://m.70.ms:80/51992993566/qwe2131/10698
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/49789?atctive=true
 #EXTINF:-1 group-title="Canais Abertos",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 group-title="Canais Abertos",TV Diário
-http://m.70.ms:80/51992993566/qwe2131/36316
-
 #EXTINF:-1 group-title="Canais Abertos",Canal Rural
-http://m.70.ms:80/51992993566/qwe2131/6425
-
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos",Terra Viva
 http://m.70.ms:80/51992993566/qwe2131/10661
-
-#EXTINF:-1 group-title="Canais Abertos",AgroMais
-http://m.70.ms:80/51992993566/qwe2131/113603
-
-#EXTINF:-1 group-title="Canais Abertos",Canal do Boi
-http://m.70.ms:80/51992993566/qwe2131/76300
-
+#EXTINF:-1 group-title="Canais Abertos",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Câmara
-http://m.70.ms:80/51992993566/qwe2131/28679
-
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Senado
-http://m.70.ms:80/51992993566/qwe2131/21102
-
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 #EXTINF:-1 group-title="Canais Abertos",TV Justiça
-http://m.70.ms:80/51992993566/qwe2131/10660
-
-
-
-
-
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Master Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",TV Osório News
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",MyTime Movie Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Classique TV Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos",Combat Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+##########################################################################
 #EXTINF:-1 group-title="Canais Pagos",CNN Brasil
-http://m.70.ms:80/51992993566/qwe2131/70825
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/688
 #EXTINF:-1 group-title="Canais Pagos", SporTV
-http://m.70.ms:80/51992993566/qwe2131/6481
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/745
+#EXTINF:-1 group-title="Canais Pagos", SporTV 2
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/739
 #EXTINF:-1 group-title="Canais Pagos", Globo News
-http://m.70.ms:80/51992993566/qwe2131/6568
-
-#EXTINF:-1 group-title="Canais Pagos", Jovem Pan News
-http://m.70.ms:80/51992993566/qwe2131/203502
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/693
 #EXTINF:-1 group-title="Canais Pagos", VIVA
-http://m.70.ms:80/51992993566/qwe2131/61
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/785
 #EXTINF:-1 group-title="Canais Pagos", Lifetime
-http://m.70.ms:80/51992993566/qwe2131/6544
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/447
 #EXTINF:-1 group-title="Canais Pagos", Universal TV
-http://m.70.ms:80/51992993566/qwe2131/6409
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/477
 #EXTINF:-1 group-title="Canais Pagos", Warner Channel
-http://m.70.ms:80/51992993566/qwe2131/60
-
-#EXTINF:-1 group-title="Canais Pagos", Star
-http://m.70.ms:80/51992993566/qwe2131/6423
-
-#EXTINF:-1 group-title="Canais Pagos", Paramount Network
-http://m.70.ms:80/51992993566/qwe2131/6517
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/480
+#EXTINF:-1 group-title="Canais Pagos", Star Channel
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/441
+#EXTINF:-1 group-title="Canais Pagos", Paramount Channel
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/453
 #EXTINF:-1 group-title="Canais Pagos", Studio Universal
-http://m.70.ms:80/51992993566/qwe2131/6445
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/462
 #EXTINF:-1 group-title="Canais Pagos", TLC
-http://m.70.ms:80/51992993566/qwe2131/6458
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/18
 #EXTINF:-1 group-title="Canais Pagos", A&E
-http://m.70.ms:80/51992993566/qwe2131/6646
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/420
 #EXTINF:-1 group-title="Canais Pagos", AMC
-http://m.70.ms:80/51992993566/qwe2131/6644
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/423
 #EXTINF:-1 group-title="Canais Pagos", AXN
-http://m.70.ms:80/51992993566/qwe2131/6648
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/426
 #EXTINF:-1 group-title="Canais Pagos", Sony
-http://m.70.ms:80/51992993566/qwe2131/6631
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/456
 #EXTINF:-1 group-title="Canais Pagos", Space
-http://m.70.ms:80/51992993566/qwe2131/6487
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/459
 #EXTINF:-1 group-title="Canais Pagos", Megapix
-http://m.70.ms:80/51992993566/qwe2131/6536
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/450
 #EXTINF:-1 group-title="Canais Pagos", FX
-http://m.70.ms:80/51992993566/qwe2131/6571
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/444
+#EXTINF:-1 group-title="Canais Pagos", Fox News
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/130689
+#EXTINF:-1 group-title="Canais Pagos", Fox Sports 2
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/373
 #EXTINF:-1 group-title="Canais Pagos", Cinemax
-http://m.70.ms:80/51992993566/qwe2131/6626
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/429
 #EXTINF:-1 group-title="Canais Pagos", TNT
-http://m.70.ms:80/51992993566/qwe2131/6456
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/471
 #EXTINF:-1 group-title="Canais Pagos", HBO
-http://m.70.ms:80/51992993566/qwe2131/6554
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/611
+#EXTINF:-1 group-title="Canais Pagos", HBO 2
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/596
 #EXTINF:-1 group-title="Canais Pagos", Telecine Cult
-http://m.70.ms:80/51992993566/qwe2131/6468
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/803
 #EXTINF:-1 group-title="Canais Pagos", Telecine Fun
-http://m.70.ms:80/51992993566/qwe2131/6466
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/797
 #EXTINF:-1, Telecine Pipoca
-http://m.70.ms:80/51992993566/qwe2131/6464
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/808
 #EXTINF:-1 group-title="Canais Pagos", Telecine Premium
-http://m.70.ms:80/51992993566/qwe2131/6462
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/811
 #EXTINF:-1 group-title="Canais Pagos", Telecine Touch
-http://m.70.ms:80/51992993566/qwe2131/6460
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/814
 #EXTINF:-1 group-title="Canais Pagos", Telecine Action
-http://m.70.ms:80/51992993566/qwe2131/6470
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/800
 #EXTINF:-1 group-title="Canais Pagos", History Channel
-http://m.70.ms:80/51992993566/qwe2131/6549
-
-#EXTINF:-1 group-title="Canais Pagos", History Channel 2
-http://m.70.ms:80/51992993566/qwe2131/6560
-
-#EXTINF:-1 group-title="Canais Pagos", Nat Geo
-http://m.70.ms:80/51992993566/qwe2131/6529
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/34
+#EXTINF:-1 group-title="Canais Pagos", National Geographic
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/43
 #EXTINF:-1 group-title="Canais Pagos", Discovery Channel
-http://m.70.ms:80/51992993566/qwe2131/6619
-
-#EXTINF:-1 group-title="Canais Pagos", Investigação Discovery
-http://m.70.ms:80/51992993566/qwe2131/6546
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/6
+#EXTINF:-1 group-title="Canais Pagos", Home & Health
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/9
 #EXTINF:-1 group-title="Canais Pagos", Discovery Turbo
-http://m.70.ms:80/51992993566/qwe2131/6607
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/21
 #EXTINF:-1 group-title="Canais Pagos", Discovery Theater
-http://m.70.ms:80/51992993566/qwe2131/6609
-
-#EXTINF:-1 group-title="Canais Pagos", Animal Planet
-http://m.70.ms:80/51992993566/qwe2131/6642
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/15
+#EXTINF:-1 group-title="Canais Pagos", Discovery World
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/24
 #EXTINF:-1 group-title="Canais Pagos", Discovery Kids
-http://m.70.ms:80/51992993566/qwe2131/6613
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/662
+#EXTINF:-1 group-title="Canais Pagos", Animal Planet
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/3
+#EXTINF:-1 group-title="Canais Pagos", Adult Swin
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/65312
+#EXTINF:-1 group-title="Canais Pagos", E!
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/763
 #EXTINF:-1 group-title="Canais Pagos", ESPN
-http://m.70.ms:80/51992993566/qwe2131/6588
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/365
 #EXTINF:-1 group-title="Canais Pagos", ESPN 2
-http://m.70.ms:80/51992993566/qwe2131/6590
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/369
+#EXTINF:-1 group-title="Canais Pagos", ESPN 3
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/362
+#EXTINF:-1 group-title="Canais Pagos", ESPN 4
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/376
+#EXTINF:-1 group-title="Canais Pagos", Combat
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/353
 #EXTINF:-1 group-title="Canais Pagos", Band Sports
-http://m.70.ms:80/51992993566/qwe2131/6637
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/386
+#EXTINF:-1 group-title="Canais Pagos", Comedy Central
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/759
 #EXTINF:-1 group-title="Canais Pagos", Fish TV
-http://m.70.ms:80/51992993566/qwe2131/6586
-
-#EXTINF:-1 group-title="Canais Pagos", TruTV
-http://m.70.ms:80/51992993566/qwe2131/6451
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/27
 #EXTINF:-1 group-title="Canais Pagos", Cartoon Network
-http://m.70.ms:80/51992993566/qwe2131/6628
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/627
 #EXTINF:-1 group-title="Canais Pagos", Gloob
-http://m.70.ms:80/51992993566/qwe2131/6564
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/663
+#EXTINF:-1 group-title="Canais Pagos", Gloobinho
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/663
+#EXTINF:-1 group-title="Canais Pagos", Ra Tim Bum
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/666
 #EXTINF:-1 group-title="Canais Pagos", Nick JR
-http://m.70.ms:80/51992993566/qwe2131/6522
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/648
 #EXTINF:-1 group-title="Canais Pagos", Nickelodeon
-http://m.70.ms:80/51992993566/qwe2131/6520
-
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/651
 #EXTINF:-1 group-title="Canais Pagos", Disney Channel
-http://m.70.ms:80/51992993566/qwe2131/6603
-
-#EXTINF:-1 group-title="Canais Pagos", TV Ra Tim Bum
-http://m.70.ms:80/51992993566/qwe2131/10656
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/632
