@@ -204,7 +204,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Entretenimento",Tela Viva (360p)
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Agro",Terra Viva (720p) [Não 24/7]
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/45889
 #EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Entretenimento",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Notícias",TV A Folha (720p)

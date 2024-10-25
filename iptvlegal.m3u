@@ -88,7 +88,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 ######## TERRA VIVA ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Rural",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/45889
 ######## AGRO BRASIL ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Rural",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
