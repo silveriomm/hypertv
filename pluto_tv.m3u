@@ -1,10 +1,10 @@
 #EXTM3U
 ########## FIMES #######################################################################################################################################################
 ########## CINE SUCESSOS ###############################################################################################################################################
-#EXTINF:-1 tvg-logo="https://imgur.com/98tmEQQ.png" group-title="Filmes",Cine Sucessos | Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmT3733.png" group-title="Filmes",Cine Sucessos | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ########## FILMES AÇÃO ###############################################################################################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp5EJMY.png" group-title="Filmes",Filmes Ação | Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhocTKJ.png" group-title="Filmes",Filmes Ação | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ########## ADRENALINA FREEZONE ########################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNtnyh3.png" group-title="Filmes",Adrenalina Freezone | Pluto TV
