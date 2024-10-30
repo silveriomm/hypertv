@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="acusticoimaginar.br" tvg-logo="https://i.imgur.com/j9mDN8u.jpeg" group-title="Música",Acústico Imaginar: Pé de serra (Youtube)
+https://youtu.be/aqIOdPuSPw0
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Variedade",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Indefinido",Amazon Sat (1080p)
@@ -9,8 +11,12 @@ https://streaming.al.mt.gov.br/test/index.m3u8
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Indefinido",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="boavontate.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_boa-vontade-tv-hd_m.png" group-title="Religioso",Boa Vontade TV (1080p)
+https://youtu.be/HWjtA6rXnhU
 #EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Notícia",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png" group-title="Rural",Canção Nova
+https://youtu.be/UV4TFmAeQb8
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Rural",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Educação",Canal Educação (720p)
@@ -53,6 +59,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Religioso",Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="presbipinheiros.br" tvg-logo="https://toppng.com/uploads/preview/igreja-presbiteriana-do-brasil-vector-logo-11574103316oagyk1t7uw.png" group-title="Religioso",Igreja Presbiteriana de Pinheiros (Youtube)
+https://youtu.be/FWPZRlGVZrw
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="Religioso",IMPD TV (720p)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Indefinido",Loading (720p)
@@ -81,10 +89,20 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Variedade",Rede UTV (720p)
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religious",Rede Vida (720p)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="Estilo de vida",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="santuaparecida.br" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-1079683034.jpg" group-title="Religioso",Santuário Nacional de Aparecida
+https://youtu.be/juUt-rN5CVo
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Variedade",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTcentral.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Variedade",SBT Central
+https://youtu.be/Tii6ljAdSm0
+#EXTINF:-1 tvg-id="SBTrio.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Variedade",SBT Rio
+https://youtu.be/TzRN6XMHL18
+#EXTINF:-1 tvg-id="SBTrs.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Variedade",SBT RS
+https://youtu.be/qHheuLk1nUw
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Variedade",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Indefinido",SIC TV (720p)
@@ -95,6 +113,8 @@ https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Variedade",Tela Viva (360p)
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tvparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religioso",TV Aparecida
+https://youtu.be/ha-Ag0lQmN0
 #EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Entretenimento",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Notícia",TV A Folha (720p)
@@ -121,6 +141,8 @@ https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Legislativo",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png" group-title="Religioso",TV Canção Nova
+https://youtu.be/UV4TFmAeQb8
 #EXTINF:-1 tvg-id="TVCandides.br" tvg-logo="https://i.imgur.com/evKq5ze.png" group-title="Variedade",TV Candidés (1080p)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Variedade",TV Caravelas (720p)
@@ -143,6 +165,8 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 #EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-logo="https://i.imgur.com/B5ZTMzY.png" group-title="Entretenimento",TV Digital Biriguí (640p)
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Legislativo",TV Justiça
+https://youtu.be/WTxV1OT6_sI
 #EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="Notícia",TV do Povo (540p)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="Variedade",TV Futuro (1080p)
@@ -167,6 +191,10 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMon.br" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="Indefinido",TV Mon (720p)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMundomaior.br" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/04/TV-Mundo-Maior-Logo-300x134.jpg" group-title="Religioso",TV Mundo Maior
+https://youtu.be/4DppcKJkGzM
+#EXTINF:-1 tvg-id="TVNordestina.br" tvg-logo="https://i.imgur.com/Li4ehMM.png" group-title="Cultura",TV Nordestina
+https://youtu.be/Dm95Hj4xPxc
 #EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="Cultura",TV Omindaré (360p)
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOsorioNews.br" tvg-logo="https://i.imgur.com/cmgM4nA.png" group-title="Notícia",TV Osório News (480p)
@@ -187,6 +215,8 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="Variedade",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="TVtambau.br" tvg-logo="https://portalhqpb.com.br/wp-content/uploads/2016/09/Logo-TV-TAMBAU-300x168.png" group-title="Variedade",TV Tambaú
+https://youtu.be/qGzE7dqxths
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Séries",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícia",TV Sim Cachoeiro (720p)
