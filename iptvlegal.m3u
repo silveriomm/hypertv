@@ -13,19 +13,19 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 ######## REDE TV ########
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Variedades",Rede TV! (Pluto TV)
-https://urlc.net/Op9e
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6048fc47a44e540007745d2b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9f788750-95f7-11ef-86e9-5d26d7e46f38&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=47a31222-d92d-43f2-8c72-e869c96f438f&userId=&serverSideAds=true
 ######## RECORD NEWS ########
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Record News (Pluto TV)
-https://urlc.net/M2Lm
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9f788750-95f7-11ef-86e9-5d26d7e46f38&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=47a31222-d92d-43f2-8c72-e869c96f438f&userId=&serverSideAds=true
 ######## BAND NEWS ########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/250px-BandNewsTV2024.svg.png" group-title="Variedades",Band News (Pluto TV)
-https://urlc.net/M2Jn
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645a99282858cb0008ea8378/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9f788750-95f7-11ef-86e9-5d26d7e46f38&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=47a31222-d92d-43f2-8c72-e869c96f438f&userId=&serverSideAds=true
 ######## JOVEM PAN NEWS ########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Notícia",Jovem Pan News (Distro TV)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/playlist.m3u8
 ######## TV CULTURA ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Educativos",TV Cultura (Pluto TV)
-https://urlc.net/Op9j
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9f788750-95f7-11ef-86e9-5d26d7e46f38&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=47a31222-d92d-43f2-8c72-e869c96f438f&userId=&serverSideAds=true
 ######## TV FUTURA ########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="Educativos",Futura
 https://tv.unisc.br/hls/test.m3u8
