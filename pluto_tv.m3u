@@ -254,9 +254,6 @@ https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/6102e04e9
 ########## JOVEM PAN NEWS #############################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="Notícias",Jovem Pan News | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-########## CANAL UOL #############################################################################################################################################
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Notícias",Canal UOL | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ########## NEW BRASIL ##################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="Notícias",New Brasil | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
